@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clément, I'm 21 years old and I'm a student at the UPSSITECH university
+- 👋 Hi, I’m Clément, I'm 22 years old and I'm a student at the UPSSITECH university
 - 👀 I’m interested in robotics, AI and other new technologies :)
 - 🌱 I’m currently learning Python, C++, robotic tools and more...
 - 📫 How to reach me: clement.pages1@univ-tlse3.fr
