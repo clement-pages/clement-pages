@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Clément, I'm 22 years old and I'm a student at the UPSSITECH university
-- 👀 I’m interested in robotic, AI and other new technologies :)
-- 🌱 I’m currently learning Python, C++, robotic tools and more...
-- 📫 How to reach me: clement.pages1@univ-tlse3.fr
+### Hi there👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-pages)](https://github.com/anuraghazra/github-readme-stats)
+I'm Clément, 23 yo, student at UPSSITECH in [Robotic and Interactive Systems](https://sri.univ-tlse3.fr/?page_id=554) and intern in [SAMoVA](https://www.irit.fr/SAMOVA/site/) team at [IRIT](https://www.irit.fr/en/home/)
+
 <!---
 clement-pages/clement-pages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
