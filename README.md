@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-pages)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there👋
 
 - I'm Clément, 23 yo, automatic speech processing and AI engineer at  [IRIT](https://www.irit.fr/en/home/), in [SAMoVA](https://www.irit.fr/SAMOVA/site/) team.
