@@ -2,15 +2,15 @@
 
 ## Hi there 👋
 
-I am Clément, enginner in machine learning (mainly deep learning). I am graduated from the UPSSITECH engineering school, in Robotic and Interactive Systems ([SRI](https://www.upssitech.eu/en/eng_training/department-sri/)). I am interested in the domains of AI, audio and image processing, weather, astronomy and so many other fields ! I am also a wildlife and nature photograph 📸.
+I'm Clément, engineer in machine learning (mainly deep learning). I am graduated from the UPSSITECH engineering school, in Robotic and Interactive Systems ([SRI](https://www.upssitech.eu/en/eng_training/department-sri/)). I'm interested in the domains of AI, audio and image processing, weather, astronomy and so many other fields ! I am also a wildlife and nature photograph 📸.
 
 ## Current position
 
-🧑I am a development engineer at IRIT (Institut de Recherche en Informatique de Toulouse), and I am a member of the [SAMoVA team](https://www.irit.fr/SAMOVA/site/).
+🧑I'm a freelance AI engineer, currently working with [PyannoteAI](https://www.pyannote.ai/)
 
-💻 I am currently working on [`pyannote.audio`](https://github.com/pyannote/pyannote-audio), the most widely used python DNN-based toolkit for answering "who spoke when" question, and on [`gryannote`](https://github.com/clement-pages/gryannote), an open source audio labeling tool.
+💻 I'm also contributing on [`pyannote.audio`](https://github.com/pyannote/pyannote-audio), the most widely used python DNN-based toolkit for answering "who spoke when" question, and on [`gryannote`](https://github.com/clement-pages/gryannote), an open source audio labeling tool.
 
-I have also founded [Sunbot](https://github.com/SkyEyeWeather/SunBot), a discord bot that provides current weather and weather forecasts.
+I have founded [Sunbot](https://github.com/SkyEyeWeather/SunBot), a discord bot that provides current weather and weather forecasts.
 
 ## Papers
 
