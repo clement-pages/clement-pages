@@ -10,7 +10,7 @@ I'm Clément, engineer in machine learning (mainly deep learning). I am graduate
 
 💻 I'm also contributing on [`pyannote.audio`](https://github.com/pyannote/pyannote-audio), the most widely used python DNN-based toolkit for answering "who spoke when" question, and on [`gryannote`](https://github.com/clement-pages/gryannote), an open source audio labeling tool.
 
-I have founded [Sunbot](https://github.com/SkyEyeWeather/SunBot), a discord bot that provides current weather and weather forecasts.
+I have founded [sunbot](https://github.com/skyeye-weather/sunbot), a discord bot that provides current weather and weather forecasts.
 
 ## Papers
 
