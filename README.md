@@ -1,20 +1,18 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-pages)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hi there 👋
+## Welcome to my GitHub page 👋
 
-I'm Clément, engineer in machine learning (mainly deep learning). I am graduated from the UPSSITECH engineering school, in Robotic and Interactive Systems ([SRI](https://www.upssitech.eu/en/eng_training/department-sri/)). I'm interested in the domains of AI, audio and image processing, weather, astronomy and so many other fields ! I am also a wildlife and nature photograph 📸.
+I'm Clément, engineer in machine learning (mainly deep learning). I'm graduated from the UPSSITECH engineering school, in Robotic and Interactive Systems ([SRI](https://www.upssitech.eu/en/eng_training/department-sri/)). I'm interested in the domains of AI, audio and image processing, weather, astronomy... I'm also a wildlife and nature photograph 📸.
 
 ## Current position
 
-🧑I'm a freelance AI engineer, currently working with [PyannoteAI](https://www.pyannote.ai/)
-
-💻 I'm also contributing on [`pyannote.audio`](https://github.com/pyannote/pyannote-audio), the most widely used python DNN-based toolkit for answering "who spoke when" question, and on [`gryannote`](https://github.com/clement-pages/gryannote), an open source audio labeling tool.
-
-I have founded [sunbot](https://github.com/skyeye-weather/sunbot), a discord bot that provides current weather and weather forecasts.
+- Freelance AI engineer, currently working with [PyannoteAI](https://www.pyannote.ai/)
+- I'm contributing on [`pyannote.audio`](https://github.com/pyannote/pyannote-audio), the most widely used python DNN-based toolkit for answering "who spoke when" question, and on [`gryannote`](https://github.com/clement-pages/gryannote), an open source audio labeling tool.
+- I have founded [sunbot](https://github.com/skyeye-weather/sunbot), a discord bot providing current and forecast weather.
 
 ## Papers
 
-I have (co-) written the following articles:
+I have contributed to the following papers:
 - Clément Pages, Hervé Bredin Gryannote open-source speaker diarization labeling tool. In Interspeech 2024 2024 (pp. 3650–3651). [[link](https://www.isca-archive.org/interspeech_2024/pages24_interspeech.pdf)]
 - Kalda Joonas, Clément Pages, Ricard Marxer, Tanel Alumäe, and Hervé Bredin. "PixIT: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings." . In The Speaker and Language Recognition Workshop (Odyssey 2024) (pp. 115-122). ISCA, 2024. **Best student paper award** [[link](https://www.isca-archive.org/odyssey_2024/kalda24_odyssey.pdf)]
 - Adrien Lafore, Clément Pagés, Leila Moudjari, Sebastião Quintas, Hervé Bredin, Thomas Pellegrini, Farah Benamara, Isabelle Ferrané, Jérôme Bertrand, Marie-Françoise Bertrand, Véronique Moriceau, Jérôme FarinasIRIT-MFU Multi-modal systems for emotion classification for Odyssey 2024 challenge. In The Speaker and Language Recognition Workshop (Odyssey 2024) 2024 (pp. 296–302). [[link](https://www.isca-archive.org/odyssey_2024/lafore24_odyssey.pdf)]
