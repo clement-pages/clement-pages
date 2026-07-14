@@ -1,5 +1,3 @@
-[![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-pages)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Welcome to my GitHub page 👋
 
 I'm Clément, a machine learning engineer (mainly in deep learning). I graduated from the UPSSITECH engineering school, in Robotic and Interactive Systems ([SRI](https://www.upssitech.eu/en/eng_training/department-sri/)). I'm interested in the domains of AI, climate change, weather, low-carbon transition, astronomy. I'm also a wildlife and nature photographer 📸.
