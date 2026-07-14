@@ -1,3 +1,5 @@
+[![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-pages)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Welcome to my GitHub page 👋
 
 I'm Clément, a machine learning engineer (mainly in deep learning). I graduated from the UPSSITECH engineering school, in Robotic and Interactive Systems ([SRI](https://www.upssitech.eu/en/eng_training/department-sri/)). I'm interested in the domains of AI, climate change, weather, low-carbon transition, astronomy. I'm also a wildlife and nature photographer 📸.
@@ -16,10 +18,6 @@ All the papers I contributed to are available on [Google Scholar](https://schola
 - Kalda Joonas, Clément Pages, Ricard Marxer, Tanel Alumäe, and Hervé Bredin. "PixIT: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings." . In The Speaker and Language Recognition Workshop (Odyssey 2024) (pp. 115-122). ISCA, 2024. **Best student paper award** [[link](https://www.isca-archive.org/odyssey_2024/kalda24_odyssey.pdf)]
 - Adrien Lafore, Clément Pagés, Leila Moudjari, Sebastião Quintas, Hervé Bredin, Thomas Pellegrini, Farah Benamara, Isabelle Ferrané, Jérôme Bertrand, Marie-Françoise Bertrand, Véronique Moriceau, Jérôme FarinasIRIT-MFU Multi-modal systems for emotion classification for Odyssey 2024 challenge. In The Speaker and Language Recognition Workshop (Odyssey 2024) 2024 (pp. 296–302). [[link](https://www.isca-archive.org/odyssey_2024/lafore24_odyssey.pdf)]
 - Lafore Adrien, Clément Pagés, Leila Moudjari, Sebastiao Quintas, Isabelle Ferrané, Hervé Bredin, Thomas Pellegrini, Farah Benamara, Jérome Bertrand, Marie-Françoise Bertrand, Véronique Moriceau, and Jérôme Farinas. "Premier systeme IRIT-MyFamillyUp pour la competition sur la reconnaissance des émotions Odyssey 2024." . In Actes des 35èmes Journées d'Etudes sur la Parole (pp. 502–511). ATALA and AFPC, 2024. [[link](https://aclanthology.org/2024.jeptalnrecital-jep.51.pdf)]
-
-## Github Stats
-
-[![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-pages)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 clement-pages/clement-pages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
